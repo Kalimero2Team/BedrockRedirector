@@ -17,7 +17,7 @@ dependencies {
     implementation("org.cloudburstmc.protocol:bedrock-codec:3.0.0.Beta1-20230908.171156-106")
     implementation("org.cloudburstmc.protocol:bedrock-connection:3.0.0.Beta1-20230908.171156-105")
     implementation("com.fasterxml.jackson.core:jackson-databind:2.15.2")
-    implementation("org.slf4j:slf4j-simple:2.0.9")
+    implementation("org.slf4j:slf4j-simple:2.0.11")
 }
 
 application {
